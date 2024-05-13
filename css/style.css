@@ -748,6 +748,8 @@ ul.sign li a i {
 
 .service .service_box {
      margin-bottom: 30px;
+     display: flex;
+     flex-direction: column;
 }
 
 .service .service_box img {
@@ -841,7 +843,7 @@ ul.sign li a i {
 }
 
 .portfolio_img {
-     margin-bottom: 30px;
+     margin-bottom: 18px;
 }
 
 .middle:hover {
