@@ -45,6 +45,7 @@ body {
      font-family: 'Raleway', sans-serif;
      line-height: 1.80857;
      font-weight: normal;
+     overflow-x: hidden;
 }
 
 .container {
@@ -580,6 +581,12 @@ ul.sign li a i {
 
 .ban_img figure {
      margin: 0;
+     width: 200%;
+
+     position: relative;
+     top: 41px;
+     
+   
 }
 
 
@@ -990,7 +997,7 @@ ul.sign li a i {
 
 .team {
      background: #fff;
-     padding-top: 80px;
+     padding-top: 90px;
 }
 
 .team .titlepage h2 {
